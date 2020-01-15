@@ -1,4 +1,4 @@
-# Git Lab #2
+# The second git lab
 ## First team member: Hugh Dillon
-
-Die class project. It simulates a die and includes a driver program.
+## Second team member: Justin Adie
+### Die Project: simulates the rolling of a die with a specified number of sides.
