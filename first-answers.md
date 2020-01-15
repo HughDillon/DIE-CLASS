@@ -8,4 +8,6 @@ error: failed to push some refs to 'https://github.com/HughDillon/DIE-CLASS.git'
 
 4. * header
      master
-5. 
+     
+5. DEADJOE  die.h	first-answers.md  README.md                     second-answers.md
+
